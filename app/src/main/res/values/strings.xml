@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">IrrigationScheduling</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_field_list">FieldList</string>
+    <string name="title_activity_create_field">CreateField</string>
+
+    <string-array name="location">
+        <item>Asansol</item>
+        <item>Calcutta</item>
+        <item>Darjiling</item>
+        <item>Kharagpur</item>
+        <item>Shiliguri</item>
+    </string-array>
+
+    <string-array name="crop">
+        <item>Wheat</item>
+        <item>Potato</item>
+    </string-array>
+
+    <string-array name="soil">
+        <item>sand</item>
+        <item>loamy sand</item>
+        <item>sandy loam</item>
+        <item>sandy clay loam</item>
+        <item>loam</item>
+        <item>sandy clay</item>
+        <item>silt loam</item>
+        <item>silt</item>
+        <item>clay loam</item>
+        <item>silt clay loam</item>
+        <item>silty clay</item>
+        <item>clay</item>
+
+    </string-array>
+
+    <string-array name="irrigation">
+        <item>Surface</item>
+        <item>Sprinkler</item>
+    </string-array>
+    <string name="title_activity_field_info">FieldInfo</string>
+    <string name="title_activity_edit_field">EditField</string>
+    <string name="title_activity_irrigate">Irrigate</string>
+</resources>
